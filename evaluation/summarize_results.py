@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("../data/evaluation_100.csv")
+df = pd.read_csv("./data/evaluation_100.csv")
 
 print("=== Reward Model Metrics ===")
 print(f"Mean reward SFT : {df['reward_sft'].mean():.3f}")
