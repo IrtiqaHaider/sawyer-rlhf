@@ -35,6 +35,3 @@ Despite a modest positive reward-model signal, independent quality judgments pre
 ```bash
 pip install -r requirements.txt
 ```
-
-[![DOI](https://zenodo.org/badge/1375242311.svg)](https://doi.org/10.5281/zenodo.22822620)
-
