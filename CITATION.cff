@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this experimental artifact, please cite it as below."
+title: "SAWYER Experimental Artifacts — GPT-2 Low-Resource Classical RLHF (September 2026)"
+authors:
+  - family-names: "Haider"
+    given-names: "Irtiqa"
+version: 1.0.1
+date-released: 2026-09-18
+url: "https://github.com/IrtiqaHaider/sawyer-rlhf"
+repository-code: "https://github.com/IrtiqaHaider/sawyer-rlhf"
+license: MIT
+type: software
+abstract: >
+  Complete code, configuration files, evaluation data, and analysis artifacts 
+  for a controlled low-resource classical RLHF experiment (SFT → Reward Model → PPO) 
+  on GPT-2 (124M) under single-GPU constraints. This release accompanies the 
+  September 2026 manuscript revision and documents a new experiment; it does not 
+  reconstruct earlier superseded runs.
+keywords:
+  - reinforcement-learning-from-human-feedback
+  - RLHF
+  - GPT-2
+  - reward-over-optimization
+  - reproducibility
