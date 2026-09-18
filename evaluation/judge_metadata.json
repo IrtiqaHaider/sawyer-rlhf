@@ -1,0 +1,10 @@
+{
+  "judge_model": "Independent AI Judge (Grok-equivalent quality)",
+  "num_examples_judged": 25,
+  "selection_criteria": "Non-empty, non-degenerate responses",
+  "rubric": ["helpfulness", "coherence", "relevance", "factual_correctness"],
+  "sft_preferred": 15,
+  "ppo_preferred": 10,
+  "ties": 0,
+  "overoptimization_cases": 9
+}

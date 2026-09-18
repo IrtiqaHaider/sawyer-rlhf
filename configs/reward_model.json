@@ -1,0 +1,14 @@
+{
+  "sft_checkpoint": "./sft_gpt2_dolly/final",
+  "dataset": "Anthropic/hh-rlhf",
+  "data_dir": "helpful-base",
+  "max_preference_pairs": 12000,
+  "max_seq_len": 256,
+  "num_epochs": 2,
+  "per_device_batch_size": 4,
+  "gradient_accumulation_steps": 8,
+  "learning_rate": 1e-5,
+  "fp16": true,
+  "seed": 42,
+  "output_dir": "./rm_gpt2_hh"
+}

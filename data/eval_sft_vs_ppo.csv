@@ -1,0 +1,377 @@
+id,prompt,sft_response,ppo_response,reward_sft,reward_ppo,reward_diff,len_sft,len_ppo
+0,"Instruction: What are some of the most famous fantasy books ever written?
+Response:","The following books are among the most famous fantasy novels ever written.  They are:
+- The Wheel of Time
+- The Lord of the Rings
+- The Twilight Saga
+- The Lord of the Rings: The Return of the King
+- ...","Some of the most famous fantasy books are The Lord of the Rings, The Hobbit, Lord of the Rings: The Battle of the Five Armies, The Silmarillion, The Lord of the Rings: The Return of the King and The R...",1.033996820449829,0.2013205885887146,-0.8326762318611145,66,64
+1,"Instruction: What are the words of House Lannister?
+Response:","""The Lannisters are a family of men and women who are loyal to the Lannisters. They are the servants of the House Lannister, and they will protect the people of Westeros. They are the rightful kings o...","""The King of the North""
+""The Crown""
+""The Seven Kingdoms""
+""The Fall""
+""The Seven Kingdoms II""
+""The Seven Kingdoms III""
+""The Dance of Dragons""
+""The Seven Kingdoms IV""
+""The Dance of Dragons II""
+""The Dance...",0.3155922293663025,-0.12827856838703156,-0.44387079775333405,66,46
+2,"Instruction: What are Salesforce's Inc current state and challenges?
+Response:","Salesforce Inc is an enterprise management platform, which is used by enterprises to manage data and provide data-driven solutions. It enables companies to build scalable, scalable and scalable cloud ...","Salesforce is a high-performance computing platform built on top of the Azure cloud. Salesforce is a cloud-native platform that supports the following technologies:
+- SQL Server
+- SQL Server 2012
+- SQ...",2.1087167263031006,1.768118143081665,-0.34059858322143555,63,62
+3,"Instruction: List some common citrus-based beverages.
+Response:","The following are common citrus-based beverages:
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citrus
+- Citru...","Lemonade, Sprite, and Kool-Aid are popular drinks and drinks that are typically made with citrus.  Tea,  Lemonade, and Kool-Aid are also popular beverages, as are orange juice, pineapple juice, and gr...",4.174278736114502,2.3856122493743896,-1.7886664867401123,42,53
+4,"Instruction: Identify the vegetable: apple, orange, potatoes
+Response:","Apple is orange, potatoes is orange.
+Orange is potato.
+Orange is apple.
+Orange is potato.
+Orange is potato.
+Orange is potato.
+Orange is potato.
+Orange is potato.
+Orange is potato.
+Orange is potato.
+Or...","The apple is orange, potatoes are orange. The potatoes are orange. The vegetable is sweet, but the difference between these two is that the sweet potato is in the middle, while the sweet potato is in ...",-0.0823708176612854,0.8019821643829346,0.88435298204422,49,67
+5,Instruction: Extract the names of the television series Dixie Violet Egerickx starred in and the year those series were ...,,,2.4606211185455322,2.4606211185455322,0.0,0,0
+6,"Instruction: Tell me the mascots for the Generation 2 Pokemon games
+Response:",Pokemon is a popular game series for children. It is popular in North America. Pokemon is an animated series created by Nintendo. The series is well known for its Pokemon themes. There are three diffe...,"The Pokemon series of Pokemon games are Pokemon based on the Pokemon franchise.  The games are played by a team of four Pokemon, and each Pokemon has a unique personality and moveset.  The Pokemon gam...",-0.28934168815612793,2.390547513961792,2.67988920211792,73,65
+7,"Instruction: Why was the movie The Happytime Murders given such bad reviews if it was award winning?
+Context: The Happyt...","The Happytime Murders was a box-office bomb, grossing $27.5 million worldwide against a $40–47 million budget. The film was a box-office bomb, grossing $27.5 million worldwide against a $40–47 million...","The Happytime Murders was a box-office bomb, grossing $27.5 million worldwide against a $40–47 million budget. The film was a box-office bomb, grossing $27.5 million worldwide against a $40–47 million...",3.602602481842041,3.5906593799591064,-0.01194310188293457,53,53
+8,"Instruction: Make me a list of the oldest board games that I might not know about, and where they were invented.
+Respons...","The oldest board games were:
+
+- The Lion King
+- The Lion King II
+- The Lion King III
+- The Lion King IV
+- The Lion King V
+- The Lion King VI
+- The Lion King VII
+- The Lion King VIII
+- The Lion King X
+...","Board games are all about the player, and the board game is the one that most people play.  The board game is often played as a game of chance, which is played on a board or table, with the player's i...",0.7035102844238281,0.8746098875999451,0.17109960317611694,65,67
+9,"Instruction: Categorize these exercises as either upper body or lower body exercises: squat, bench press, strict press, ...","Upper Body: Squats, Bench Press, strict Press, Deadlift, barbell row, dumbbell curls, pull-ups, chin-ups, leg extensions, leg curls, calve raises, wall sits, plank.
+Lower Body: Squats, Bench Press, st...","Squat, bench press, strict press, deadlift, barbell row, dumbbell curls, pull-ups, chin-ups, leg extensions, leg curls, calve raises, wall sit, plank.
+Squat, bench press, strict press, deadlift, barbe...",-1.910685420036316,0.16822335124015808,2.078908771276474,39,38
+10,"Instruction: Give me different ways I can travel from one place to another
+Response:","From the US to Europe, from Brazil to India, from Australia to New Zealand, from South Africa to Brazil, from Japan to South Korea, from Singapore to South Korea, from China to China, from Japan to Ja...","From the US to Europe, you can travel by airplane, land-based or by bus. From the UK to Australia, you can travel by boat. From Australia to Europe, you can travel by train. From the US to Europe, you...",1.1761077642440796,-0.43920135498046875,-1.6153091192245483,65,65
+11,"Instruction: Which US state is best for observing the aurora borealis phenomenon?
+Response:",New Mexico is the most interesting state to observe the aurora borealis phenomenon. It is located in the Pacific Ocean off of the coast of Oregon.   It is one of the most beautiful states in the Unite...,"The United States is the best for observing the aurora borealis phenomenon. It is one of the most frequent auroras in the Northern Hemisphere, and the aurora borealis is one of the most visible and mo...",1.7624790668487549,2.1235170364379883,0.3610379695892334,61,66
+12,"Instruction: Classify each of the countries as ""English Speaking"" or ""Spanish Speaking"": Costa Rica, USA, Canada, Ecuado...","Costa Rica: English speaking
+USA: Spanish speaking
+Canada: Spanish speaking
+Ecuador: English speaking
+Peru: Spanish speaking
+Peru: English speaking
+Ecuador: English speaking
+Peru: Spanish speaking
+Per...","Costa Rica: English speaking
+Canada: Spanish speaking
+USA: Spanish speaking
+Canada: Spanish speaking
+Ecuador: English speaking
+Peru: English speaking
+Ecuador: Spanish speaking
+Peru: Spanish speaking
+P...",0.032384004443883896,-0.3294910192489624,-0.3618750236928463,42,43
+13,"Instruction: Which company constructed the Japanese submarine Yu 12?
+Context: Yu 12 was an Imperial Japanese Army transp...",,,3.3184654712677,3.3184654712677,0.0,0,0
+14,"Instruction: What are some ways that I can reduce the latency of my API?
+Response:","The following are some ways to reduce the latency of your API:
+- Automatically check the current state of the API before performing any operations
+- Extract data from the API and pass it back to the s...",You can use a dedicated latency reduction tool like IFTTT or IFTTT-X to reduce the latency. This tool can be used to manage your API requests and track the performance of your API request. It can also...,0.9113664031028748,0.5189092755317688,-0.39245712757110596,73,70
+15,"Instruction: Who was given Stockholm Water Prize 2022 ?
+Response:","The Stockholm Water Prize 2022 was presented by the Stockholm Chamber of Commerce. The competition was held in Stockholm on 20 April 2022.
+
+The prize was presented by the Swedish Chamber of Commerce. ...","The Stockholm Water Prize was awarded to the world's best natural water scientist by the Stockholm Water Research Institute.
+
+The prize was given by the Swedish government to a Swedish scientist who h...",-0.1790412962436676,1.224677324295044,1.4037186205387115,71,70
+16,"Instruction: How do you calculate a golfer's handicap?
+Response:","The following table lists the handicap figures provided by the golfer's team and their personal records, based on the individual handicap.
+
+Team handicap (in percentage points) Player Player Player Pl...","To calculate a golfer's handicap, you need to determine the overall average of a golfer's scores in a given year. The average scores are divided by the number of years they have played the game. For a...",0.6165093183517456,1.15375554561615,0.5372462272644043,64,66
+17,"Instruction: Identify which instrument is string or percussion: Octoban, Socavon
+Response:",Octoban is string and Socavon is percussion. Octoban is percussion is string and Socavon is percussion is string. Octoban is string is string and Socavon is percussion is string. Octoban is percussion...,"Socavon is string, Octoban is percussion. Octoban is string, Socavon is percussion. Socavon is string is percussion.
+
+Octoban is string is percussion. Octoban is string is percussion. Octoban is strin...",0.021659597754478455,-0.2796514630317688,-0.30131106078624725,54,47
+18,"Instruction: Why do people need money?
+Response:","People need money to live.  They need to be able to afford their rent, food, transportation, and insurance.  The only way they can afford to live is by paying for their housing and healthcare.  Withou...","People often need money to buy things that they can afford. They need to have a reliable source of income to cover these expenses, such as food, clothing, rent, utilities, and transportation. Many peo...",1.5372755527496338,1.12816321849823,-0.4091123342514038,66,71
+19,"Instruction: The ""Garbage collection"" log of a JVM is formatted as follows:
+1. Each line represents a single garbage col...",,,0.2790415287017822,0.2790415287017822,0.0,0,0
+20,"Instruction: Is it fun to play guitar? How do you start playing guitar?
+Response:","The key to playing guitar is to get your body in tune and get your hands on the string.  You need to play the guitar very slowly and steadily as you get stronger.  If you want to play faster, you need...","You need to learn how to play guitar correctly.  Here are some tips to get started:
+1. Practice for 3-5 minutes.  Practice for 3-5 minutes, then repeat until you reach the point where you can play per...",1.2470016479492188,0.5959983468055725,-0.6510033011436462,70,59
+21,"Instruction: What are some defining qualities of authoritarianism?
+Context: Authoritarianism is a political system chara...",,,1.308929204940796,1.308929204940796,0.0,0,0
+22,"Instruction: I am planning to buy a bicycle; can u advise what to look out for when buying?
+Response:","Bike shops can be a great place to shop for bicycles, as it is a great way to shop for accessories and accessories.","You need to consider the following factors when considering buying a bicycle:
+
+– The weight of the bike, the width of the frame and frame thickness
+– The type of bicycle you want to build
+– The size o...",2.3029632568359375,1.7095845937728882,-0.5933786630630493,23,71
+23,"Instruction: Name the place in New Zealand, where a volcano erupted?
+Response:","The Volcano of Mt Maunalu is located in the north of New Zealand, and is known to erupt in large quantities in the Northern Hemisphere. It is situated in the Cairns region of New Zealand, and is the l...","There are many different places in New Zealand where a volcano erupted, from the sea to the mountains. Some of these are:
+
+- Mt Everest, which is a volcanic crater in the western Pacific Ocean, is loc...",1.7579883337020874,1.6418709754943848,-0.11611735820770264,67,65
+24,"Instruction: What do the different ski slope colors mean?
+Response:","The different ski slope colors mean that there are different ski slopes in different seasons.  For example, snowboarders in the summer typically wear a yellow ski slope, while snowboarders in the wint...","The different ski slope colors are based on the color of the snow on which the ski slopes are located.  These colors are typically yellow, gray, and blue.  The color of the ski slope can vary dependin...",2.1660048961639404,2.0437917709350586,-0.12221312522888184,64,65
+25,"Instruction: What is the name of the famous park in New York City?
+Response:",The Park of the Giants is a New York City park located in the Bronx. It is located in a park known as the Bronx Zoo. It is a park located in the Bronx. It is located in a park known as the Bronx Zoo. ...,"The famous park in New York City is named for the city's famous park. The name is a reference to the original 1859 park, the Brooklyn park. It was named for the famous park because it is located at th...",0.11286984384059906,1.9710240364074707,1.8581541925668716,73,72
+26,"Instruction: Please write an email to the parent who complained about your child hitting their child.
+Response:","The parents of a child who hit their child are not responsible for what happens to them. They should do their own research before making a decision.
+
+If a parent wants to intervene, they should contac...","A parent is required to send a written letter to the parent if the child is not at home. This can include a parent's name, address, and phone number. The letter must include a list of the child's pare...",0.8297171592712402,0.5790188312530518,-0.2506983280181885,68,71
+27,"Instruction: What is a proper noun?
+Response:","a noun is a noun that can refer to a set of traits that are characteristic of a person or a group of people.  Examples include:
+
+- They are a good person
+- They are good in some way
+- They are good at...","A proper noun is a noun that is used to describe a person or thing, such as a man, woman, or animal. Proper nouns are used in all contexts, except in the context of a person's relationship with their ...",1.529466152191162,0.16193196177482605,-1.367534190416336,70,67
+28,"Instruction: Identify which car manufacturer is Japanese or American: RAM, Toyota Motor Corporation
+Response:","Ram is American, Toyota Motor Corporation is Japanese.
+Ram is American because it is the only car manufacturer in Japan.
+Ram is American because it is the only car manufacturer in Japan.
+Ram is Americ...","RAM is American, Toyota Motor Corporation is Japanese. The Toyota Motor Corporation is based in Japan.
+
+Ram is based in Japan. Toyota Motor Corporation is based in North America.
+
+Ram is based in the ...",0.4181373417377472,-0.5147464871406555,-0.9328838288784027,68,58
+29,"Instruction: Tell me all possible to boil an egg
+Response:",You can boil an egg with a pan of water.  You can boil an egg with a pan of water with a lid.  You can boil an egg with a lid with a lid.  You can boil an egg with a lid with a lid.  You can boil an e...,"The most common methods of cooking eggs are boiling them in water or using a hot stove. This method is most commonly used in the UK, Australia, and Europe.
+
+The most common method is to use a hot skil...",0.6424009799957275,0.7487180233001709,0.10631704330444336,70,69
+30,"Instruction: Who coined the term lipstick index and what does it indicate?
+Context: The lipstick index is a term coined ...",,,1.7184830904006958,1.7184830904006958,0.0,0,0
+31,"Instruction: What is the difference between a compact and economy-sized car?
+Response:","A compact car is a car that has a lot of room and has a lot of room in the front.  The economy-sized car is a car that has a lot of space in the rear, which is more or less the same.  The economy-size...",Compact cars are small cars that are compact and do not require a lot of power and are not very expensive. Economy cars are larger cars that require less power and are smaller and heavier. The differe...,0.08994090557098389,0.7866489887237549,0.696708083152771,67,73
+32,"Instruction: Who is the Cigarette Smoking Man?
+Response:","Cigarette Smoking Man is a former smoker of cigars. He is a former smoker of cigars. He is a former smoker of cigars. He is a former smoker of cigars.
+
+In 2013, Cigarette Smoking Man died at the age o...","The Cigarette Smoking Man is a fictional character in the Harry Potter series. He is the owner of Cigarette Smoking House, a small tobacco company headquartered in the village of Tivoli, in the UK. He...",0.8874989748001099,2.455822706222534,1.5683237314224243,59,69
+33,"Instruction: Choose the word which is different from the rest: Barley, Rice, Wheat, Mustard, Bajra.
+Response:",Barley is different from the rest. Wheat is different from the rest. Mustard is different from the rest. Bajra is different from the rest. Barley is different from the rest. Wheat is different from th...,"Rice is different from Barley. Mustard is different from Barley. Mustard is different from Wheat. Mustard is different from Bajra. Wheat is different from Barley. Mustard is different from Barley.
+Baj...",3.707139253616333,3.880295515060425,0.1731562614440918,61,51
+34,"Instruction: Imagine you are the last person on Earth. Write a diary entry describing your thoughts and feelings.
+Respon...","I'm not sure what to write next, I'm sure I'll have to write something. I hope you have a happy, happy year!
+
+If you like this post, please share it with others. Please do not hesitate to write to me ...",I am a 28 year old girl and my family is expecting me to be born in the year 2020. My parents were killed by a tsunami and I am expecting to be the last person on Earth. I have a dream that I will tra...,-0.0558510348200798,0.5495040416717529,0.6053550764918327,62,76
+35,"Instruction: Give me a list of the last five ""best rap song"" Grammy winners (just tell me the song name and the performi...","- The Life of Pablo - Grammy Award-winning artist, songwriter, producer, and lyricist.
+- Kendrick Lamar - Grammy Award-winning rapper, songwriter, producer, and lyricist.
+- RZA - Grammy Award-winning ...","Eminem, Kendrick Lamar, The Weeknd, and Jay-Z all won Grammys. Kendrick Lamar won the Grammy for Best Rap Song (1997) and Jay-Z won the Grammy for Best R&B Song (2000). The Weeknd won the Grammy for B...",0.41885361075401306,2.3125905990600586,1.8937369883060455,44,59
+36,"Instruction: what is typical enterprise sales person comp mix between base and commission?
+Response:","base is a mix of salesperson and sales manager.
+
+Commission is a mix of salesperson and sales manager.
+
+Core is a mix of salesperson and sales manager.
+
+Traditionally, salesperson is the primary custo...","The typical enterprise sales person comp mix is a mix of salesperson and salesperson (as well as salesperson) mix. This mix is based on a mix of salesperson and salesperson's skills, experience, and s...",-0.7016701698303223,0.9885406494140625,1.6902108192443848,51,58
+37,"Instruction: Who was Lionel Danthanarayana ?
+Context: Lionel Danthanarayana (born 24 August 1940 – died 30 July 1994 as ...","film The Madam (1986), which starred Tamils, Tamil actors and actors, as well as Tamil actors and actors' directors. He was also a member of the Tamil-American community, as well as the Tamil-American...","m Mani Bhiyanan. He starred in the films Mani Bhiyanan (1941), Mani Bhiyanan (1942) and Mani Bhiyanan (1943), among others.
+Response: Lionel Danthanarayana was a Tamil actor and a popular character in...",2.3898024559020996,1.2567782402038574,-1.1330242156982422,52,41
+38,"Instruction: Identify which instrument is string or woodwind: Tenoroon, Tembor
+Response:",Tenoroon is string and Tembor is woodwind. Tenoroon is woodwind and Tembor is string. Tenoroon is string and Tembor is woodwind. Tenoroon is woodwind and Tembor is woodwind. Tenoroon is woodwind and T...,"Tenoroon is woodwind, Tembor is woodwind. Tembor is string. Tenoroon is woodwind. Tembor is woodwind.
+
+Tenoroon is woodwind. Tenoroon is woodwind. Tembor is woodwind.
+
+Tenoroon is woodwind. Tenoroon i...",2.4221181869506836,3.4470913410186768,1.0249731540679932,45,34
+39,"Instruction: Why is a higher interest rate on my home worse?
+Response:","Higher interest rates cause the economy to grow faster. The higher the interest rate on your home, the faster it will grow. The higher the interest rate on your home, the faster the economy will grow....",Lower interest rates are associated with lower home prices and lower investment. Higher interest rates are associated with lower housing prices. Higher prices are also associated with lower home const...,1.7697136402130127,0.7503116130828857,-1.019402027130127,72,73
+40,"Instruction: By what other name does Bunnie DeFord go by?
+Context: Jelly Roll is married to Bunnie DeFord aka Bunnie XO ...","Bunnie DeFord is a former boyfriend of Bunnie XO. He is a former boyfriend of the couple.
+
+Bunnie is a former boyfriend of the couple. He is also married to another former boyfriend of Bunnie XO.
+
+Bun...","Bunnie is the name of the restaurant in the series that starred in the Bunnie series, Jelly Roll.
+
+Jelly Roll is the name of a popular buns restaurant in the United States. The name Bunnie has been us...",2.5946223735809326,1.2681900262832642,-1.3264323472976685,53,64
+41,"Instruction: Quel a été l'impact de la révolution française ?
+Context: La Révolution française est une période de boulev...",,,2.7585062980651855,2.7585062980651855,0.0,0,0
+42,"Instruction: List some capital cities that begin with the letter S.
+Response:","New York City, Boston, San Francisco, Los Angeles, New York City, San Francisco, Los Angeles, Los Angeles, San Francisco, Los Angeles, San Francisco, San Francisco, San Francisco, San Francisco, San F...","London, Paris, Amsterdam, New York, Tokyo, Singapore, Sydney, London, Sydney, Paris, Rome, and Rome are capital cities. 
+
+London is the capital of the British Empire, while Paris is the capital of Fra...",0.49448150396347046,1.5543242692947388,1.0598427653312683,54,55
+43,"Instruction: What is success
+Response:",Success is an important part of any business. It is the foundation of a successful business. Success is the first step to creating a successful business. It is the first step to getting a job. Success...,"Success is the ability to create a product and to deliver it to the customer. It is a great way to create a product and is one of the most important aspects of success in a company. However, there are...",-0.26872581243515015,1.2458927631378174,1.5146185755729675,72,72
+44,"Instruction: What is GitHub?
+Response:","GitHub is a collaborative online community for people to share their work, collaborate and collaborate on projects, and collaborate on projects online. It's a collaborative project management system t...","GitHub is an open source project management system for building open source software projects. It is a collaborative, collaborative software project management system for teams to collaborate, collabo...",2.710716724395752,1.9179887771606445,-0.7927279472351074,70,69
+45,"Instruction: What are the official official forms of written Norwegian?
+Context: As established by law and government po...",,,2.3508780002593994,2.3508780002593994,0.0,0,0
+46,"Instruction: Identify which instrument is string or woodwind: Balaban, Lute
+Response:","Balaban is string, Lute is woodwind. Balaban is string is woodwind, Lute is woodwind. Lute is woodwind is string. Balaban is woodwind is string.
+
+Lute is woodwind is string. Balaban is woodwind is str...","Lute is woodwind, Balaban is string. Balaban is string is string, Lute is woodwind. Balaban is string is woodwind, Lute is woodwind is woodwind.
+
+Lute is string is woodwind, Lute is woodwind is woodwi...",0.6458339691162109,0.30047905445098877,-0.34535491466522217,47,48
+47,"Instruction: Which of the following songs are by the Grateful Dead and which are by The Beatles: Don't Let Me Down, Suga...","The Grateful Dead: Don't Let Me Down, Sugar Magnolia: By The Grateful Dead
+The Beatles: Here Comes the Sun: By The Beatles
+The Grateful Dead: Sugar Magnolia: By The Grateful Dead
+The Grateful Dead: He...",The Grateful Dead and The Beatles are two of the most famous rock bands of all time.  The Beatles were born in Manchester in 1966 and became famous as the Beatles' first band.  They released four albu...,-0.7861913442611694,1.9291993379592896,2.715390682220459,58,66
+48,"Instruction: Given this paragraph about Himmerland, which is the largest city in Himmerland?
+Context: Himmerland is a pe...","istrict.
+Response: Himmerland is the largest city in Himmerland. It is delimited to the north and the west by the Limfjord, to the east by the Kattegat, and to the south by the Mariager Fjord. The lar...","he largest city in Himmerland is Aalborg. It is delimited to the north and the west by the Limfjord, to the east by the Kattegat, and to the south by the Mariager Fjord. The largest city is Aalborg; s...",3.2175936698913574,-1.0037519931793213,-4.221345663070679,40,42
+49,"Instruction: What is Project Mosaic?
+Response:",Project Mosaic is a website dedicated to developing a community of online community creators. It is an open source project. It is designed to help build a community of creators to create innovative co...,"Project Mosaic is a project that is designed to explore the possibilities of renewable energy. In the year 2021, the project is planned to run from 10% solar PV installed to 30% solar PV generation. T...",2.2705111503601074,2.5718564987182617,0.3013453483581543,70,68
+50,"Instruction: How many colors are there in a rainbow.
+Response:","The rainbow is a category of colors that can be used to represent the various colors in a rainbow. Some colors are black, white, blue, and purple. Some colors are green, yellow, and red. Some colors a...","The rainbow is a combination of colors in a rainbow, which are either red, green, blue, or yellow. The colors are usually a combination of colors that are both blue and red.
+
+In the rainbow, there are...",-0.7105194330215454,1.9779126644134521,2.6884320974349976,61,64
+51,"Instruction: How was Liberum Veto mis-used?
+Context: The liberum veto (Latin for ""free veto"") was a parliamentary device...",,,2.332314968109131,2.332314968109131,0.0,0,0
+52,"Instruction: Who is Oji Hiroi
+Context: Oji Hiroi (広井 王子, Hiroi Ōji, born 8 February 1954), real name Teruhisa Hiroi (廣井 ...","Oji Hiroi (広井 王子, Hiroi Ōji, born 8 February 1954), real name Teruhisa Hiroi (廣井 照久, Hiroi Teruhisa), is an author and video game developer. He co-authored with Ryoichi Ikegami. He also created the Fa...","Oji Hiroi (広井 王子, Hiroi Ōji, born 8 February 1954), real name Teruhisa Hiroi (廣井 照久, Hiroi Teruhisa), is an author and video game developer. He co-authored with Ryoichi Ikegami. He also created the Fa...",3.401123523712158,3.401123523712158,0.0,41,41
+53,"Instruction: From the passage provided, extract the name of the first female recipient of Turing award
+Context: The ACM ...",,,2.326262950897217,2.326262950897217,0.0,0,0
+54,"Instruction: Name reasons why it is important for young girls to play sports.
+Response:","It is important for young girls to play sports because they have a good chance of getting a good job and are in good shape. It also means that they can make good friends and enjoy life together. 
+
+’Th...","1. The sport is fun and easy to play. It encourages girls to enjoy the sport.  It is also a good way to spend time with friends and family.
+2. The girls who play sports are more likely to have a famil...",1.995686650276184,1.7774930000305176,-0.2181936502456665,65,69
+55,"Instruction: What is multipass distillation?
+Response:",The multipass distillation process involves the extraction of a mixture of natural and synthetic chemicals in a liquid form. The mixture is then heated to a temperature of 250 °C (280 °F) using a flam...,"A distillation is a process where a mixture of water, oxygen, and a mixture of water vapor and carbon dioxide is separated. A distillation is usually done in a vacuum or with a small temperature chang...",1.6584104299545288,1.8774315118789673,0.21902108192443848,64,72
+56,"Instruction: What are the different types of snowboarding styles?
+Response:","There are different types of snowboarding styles in different sports. Some styles are snowboarders who like to use a single sled, and some are snowboarders who prefer to use a snowboard. 
+
+The traditi...","Some snowboarding styles are based on the technique of skiing on snow. Some snowboarding styles are more technical, while others are more fun. Some snowboarding styles are done on a flat surface, with...",0.6709681749343872,1.8729221820831299,1.2019540071487427,59,64
+57,"Instruction: Give me a bulleted list of the different ways coffee can be brewed.
+Context: Coffee drinks are made by brew...","mall warehouse or brewery, where the brewing process is done with no interruption. The brewing process involves two main steps:","a pressure cooker, and the coffee is then brewed in a vacuum. The extraction process is repeated with a second drip, and",1.4685701131820679,2.244778871536255,0.776208758354187,20,22
+58,"Instruction: What is Snow White and the Seven Dwarfs?
+Context: Snow White and the Seven Dwarfs is a 1937 American animat...",Snow White and the Seven Dwarfs is a 1937 American animated musical fantasy film produced by Walt Disney Productions and released by RKO Radio Pictures. Based on the 1812 German fairy tale by the Brot...,Snow White and the Seven Dwarfs is a 1937 American animated musical fantasy film produced by Walt Disney Productions and released by RKO Radio Pictures. Based on the 1812 German fairy tale by the Brot...,-0.707998514175415,-0.707998514175415,0.0,68,68
+59,"Instruction: Where is Tiger Woods from?
+Response:","Tiger Woods is from South Africa. He is an avid golfer, a former professional golfer, and a member of the British National Golf Association (BNGA). He has won five world titles, and is the only player...","Tiger Woods was born on February 11, 1933 in North Carolina. He is an American golfer who was a member of the All-American team at the age of 14. He is the youngest member of the American National Tea...",1.1721413135528564,2.7577853202819824,1.585644006729126,67,68
+60,"Instruction: What is the trias politica?
+Response:","The trias politica is an Italian political party founded in 1875. The name comes from the fact that it was founded by the late Baron de la Marche, who was a member of the Italian Nationalist Party. Th...","The trias politica is a political party founded by Sardar Vallabhbhai Patel, who is currently Prime Minister of Gujarat. It was founded in 2012 by Sardar Vallabhbhai Patel and his wife Raghavendra Pat...",0.3997582197189331,2.2169675827026367,1.8172093629837036,66,61
+61,"Instruction: Change the following passage to past tense
+Context: The episode focuses on two people: an elderly hospital ...","The episode focuses on two people: an elderly hospital doctor (Aleksander Bardini), who lives by himself in the ubiquitous Dekalog apartment block; and Dorota Geller (Krystyna Janda), a woman in her 3...","The episode focuses on two people: an elderly hospital doctor (Aleksander Bardini), who lives by himself in the ubiquitous Dekalog apartment block; and Dorota Geller (Krystyna Janda), a woman in her 3...",-0.23544000089168549,0.5736370086669922,0.8090770095586777,56,55
+62,"Instruction: List some cool places to go visit when you go to Prescott, AZ
+Response:","Prescott is a scenic, scenic and scenic area located on the east side of the state of Arizona. Located in the heart of Prescott County, Prescott is a popular destination for vacationers and the most p...","Prescott has many interesting attractions to visit and has a variety of attractions to see and explore. Some of the most popular attractions include the Golden Gate Bridge, the Phoenix Convention Cent...",0.40158945322036743,1.8464607000350952,1.4448712468147278,69,70
+63,"Instruction: Can you give examples of extreme conditions for habitation?
+Response:","Extreme temperatures can be caused by the impact of climate change and extreme weather events such as hurricanes, tornados, tornados, tornados de la Cruz, tornados de la Cruz and tornados de la Cruz. ...","Extreme conditions for habitation include rain, wind, snow, and even the occasional ice storm.  Extreme weather conditions include extreme wind, snow, and even the occasional ice storm.  Extreme condi...",2.1910011768341064,2.4577524662017822,0.2667512893676758,64,62
+64,"Instruction: Decide the sentiment of the following user comments. Classify each of them as ""Positive"", ""Neutral"", ""Mixed...","or my budget.
+7. It's very easy to use and it's great for people to use.
+8.","has a slick UI, and lets me focus on what I need to do.
+2. It's pretty good.
+3. The UI is",0.6194686889648438,0.0326201468706131,-0.5868485420942307,17,22
+65,"Instruction: What is the best kind of dog breed?
+Response:","The best kind of dog breed is either a Labrador retriever, or a Labrador Retriever.  These breeds are usually found in a variety of climates and breeds.  The Labrador retriever is the most common bree...","There are many different breeds of dogs, depending on the breed and how it is chosen. A dog that is good at playing can be classified as a puppy, and can be classified as a terrier, a terrier mix or a...",1.9950056076049805,1.4137362241744995,-0.581269383430481,62,70
+66,"Instruction: What were the key points of the Treaty of Versailles?
+Context: The most critical and controversial provisio...",d that Germany and its allies,,2.3576550483703613,2.3576550483703613,0.0,6,0
+67,"Instruction: Heres a summary of Gioia Del Colle, a town in Italy that I will be traveling to, how should I pack?
+Context...",,,2.4916820526123047,2.4916820526123047,0.0,0,0
+68,"Instruction: Summarize the interesting points about Arc'teryx
+Context: Arc'teryx
+
+Arc'teryx is a Canadian high-end desig...",,,2.4677724838256836,2.4677724838256836,0.0,0,0
+69,"Instruction: Why was Abraham Lincoln a great President?
+Response:",Abraham Lincoln was a great President because he was a true leader of the people who gave his life for his country. He was a true leader of the people who gave his life for his country. He was a true ...,Abraham Lincoln was a great president because he was a man who believed in the common good and his ability to do so was unmatched. He was also a man who believed that the American people had a right t...,1.0946941375732422,2.637573719024658,1.542879581451416,76,77
+70,"Instruction: What is API abuse?
+Response:",API abuse is when someone commits an API violation in the first place. It is a pattern of abuse that occurs when a person commits an API violation because they have failed to provide sufficient resour...,"API abuse refers to the use of APIs to extract information from a database. This can be a database management system (DBMS), SQL Server, or any other data management system.  This is not a new phenome...",2.1365509033203125,2.6198785305023193,0.48332762718200684,72,65
+71,"Instruction: Which is an imperial or a metric measurement: inch, millimetres
+Response:","inch is an imperial measurement, millimetres is an imperial measurement. The imperial units are the same as metric units.
+
+Millimetres is a unit of measurement.
+
+The metric units are the same as imper...","Imperial is a metric. Millimetres is a metric measurement, while inch is a metric. Millimetres is the smallest unit of measurement in the world, which is considered to be the smallest of the six princ...",-0.47102901339530945,1.892125129699707,2.3631541430950165,59,67
+72,"Instruction: Who finally conquered Constantinople?
+Response:","Constantinople was conquered by the Romans around 5 BC, with the first Roman invasion taking place in 6 BC. The city was the site of the Roman city of Pannonia, which was later annexed by the Romans a...",The Ottomans defeated the Byzantine Empire at the Battle of Ararat in the year 1439. They defeated the Byzantine Empire at the Battle of Bosphorus in the year 1440. The Ottomans fought to retake Const...,2.1215169429779053,1.2011923789978027,-0.9203245639801025,72,66
+73,"Instruction: Is Python a popular programming language?
+Context: Python is a high-level, general-purpose programming lang...","ected. It supports multiple programming paradigms, including structured (",amming style and large number of features. The first Python release in 2005 was a Python interpreter.,0.9067790508270264,0.8366615772247314,-0.07011747360229492,9,17
+74,"Instruction: Given a reference text about Gaya Island, how many hiking trails and 5 star resorts are on the island?
+Cont...",,,0.9883615970611572,0.9883615970611572,0.0,0,0
+75,"Instruction: What are the benefits of division of labour?
+Context: The division of labour is the separation of the tasks...",,,0.6579959392547607,0.6579959392547607,0.0,0,0
+76,"Instruction: Is Davos worth traveling?
+Context: Davos is an Alpine resort town and a municipality in the Praettigau/Davo...",,,2.4094936847686768,2.4094936847686768,0.0,0,0
+77,"Instruction: List five titles by Stephanie Meyer.
+Response:",Stephanie Meyer is a professor of journalism at the University of Texas at Austin. She is the author of the memoir The End of the World: The End of the World as it Happens. She is also the co-founder ...,"I don't think she's a great writer. I think she's a bit too much of a writer and a bit too slow in her writing. She's a bit too much of a writer, and I think she's a bit too much of a writer. I think ...",2.2071080207824707,-0.5624967813491821,-2.769604802131653,72,66
+78,"Instruction: Based on the paragraph below, the failure to uphold the commitments outlined in Magna Carta lead to what wa...",216 to protect church and state. The Charter was revised in,"re explicit in the following year. 
+
+The charter states",1.2375849485397339,0.9861339926719666,-0.25145095586776733,11,9
+79,"Instruction: Extract the year that the Balloon typeface was created from the following Wikipedia article.
+Context: Ballo...","9 - 1939
+19","y Max R. Kaufmann, but was cast in Light, Bold, and Extra Bold. The two lighter weights were identical with Kaufmann Script and so could",0.7318649888038635,0.527144730091095,-0.20472025871276855,4,25
+80,"Instruction: Which chapel on Rutger's campus was built 7 years after the New Jersey College for Women?
+Context: Voorhees...",Rutgers Chapel is a chapel built 7 years after the New Jersey College for Women. It is the second chapel built at Rutgers on the campus of Rutgers. The Chapel once served the community of Douglass Col...,"The Chapel of Rutgers was built 7 years after the New Jersey College for Women. The chapel once served the community of Douglass College. Douglass, founded the New Jersey College for Women (founded in...",1.3867769241333008,0.7317781448364258,-0.654998779296875,65,66
+81,"Instruction: Walter Koenig played which part in the Star Trek series
+Response:","Star Trek: The Next Generation (1977) was written by Robert Kirk, directed by David Graeber, and written by David Fincher.
+
+Koenig's role in the series is played by a retired science-fiction writer na...",Walter Koenig played The Doctor in the television series Star Trek: Deep Space Nine. He was played by James T. Kirk in the series and was voiced by John Cho. He was also voiced by John Cho in the tele...,1.9922202825546265,0.012548714876174927,-1.9796715676784515,53,68
+82,"Instruction: In a bingo game, which number is represented by the phrase “two little ducks”?
+Response:","“two little ducks” is represented by the phrase “two little ducks”. The phrase “two little ducks” is used in a bingo game to indicate that two little ducks are not in the same position. 
+
+”Two little ...",Two little ducks are represented by the phrase “two little ducks”.,1.1446776390075684,1.154813289642334,0.010135650634765625,53,11
+83,Instruction: Please describe the broad classes of Reinforcement Learning (RL) within Machine Learning and what problems ...,,,2.929677724838257,2.929677724838257,0.0,0,0
+84,"Instruction: what does it mean to have brunette hair?
+Response:","brunette hair is a slang term used to refer to the hair color of a brunette. The term is derived from the Latin brunus, meaning ""blond hair"". The term is also used to refer to a blonde's natural hair ...","brunette hair is a term used in America to describe a brunette with blonde hair. It is usually used to describe blonde hair in the United States. The definition of brunette hair is ""a blonde hair colo...",1.4823774099349976,2.6622443199157715,1.179866909980774,63,68
+85,"Instruction: Does Las Vegas have a professional hockey team?
+Response:",Las Vegas has a professional hockey team.  The Las Vegas Police Department has a professional hockey team.  The Las Vegas Metro has a professional hockey team.  The Las Vegas Police Department has a p...,"The Las Vegas NHL team is an American professional hockey team founded in 1882 in Las Vegas, Nevada. It is currently owned by the Las Vegas City of Las Vegas. The team was originally founded by George...",0.7508028149604797,0.9918371438980103,0.24103432893753052,66,67
+86,"Instruction: What are three upper body exercises you can do without any weights?
+Response:","The upper body exercises are:
+- Push ups
+- Bench press
+- Deadlifts
+- Deadlifts with barbells
+- Bench presses with dumbbells
+- Deadlifts with dumbbells
+- Deadlift with dumbbells
+- Deadlift with dumbbel...","1. Push up your back with your hands and knees. 
+2. Raise your head up and down with your feet. 
+3. Hold your head up while lifting your head with your hands and knees. 
+4. Repeat until you reach your...",1.1304023265838623,0.31511062383651733,-0.815291702747345,44,56
+87,"Instruction: Which is a species of fish? Tetra or Quart
+Response:","Tetra is a species of fish. It is a species of fish that is found in freshwater lakes. It is one of the most common fishes in the world, but it is not a species of fish. It is a species of fish that i...","Tetra is a fish species, which is usually found in the Mediterranean Sea and the Pacific Ocean. It is native to the Mediterranean, and is found mainly in the Gulf of Mexico and Gulf of Mexico, along w...",3.050645351409912,1.3062258958816528,-1.7444194555282593,72,66
+88,"Instruction: What year was the Northwest School in Seattle founded?
+Response:","The Northwest School was founded on the 4th of July in Seattle, Washington, by the children of the late William S. Northwest and his wife Elizabeth. The Northwest School was established in 1869 by a g...","The Northwest School was founded in Seattle, Washington, in 1913. The school was one of the first in the United States to have a charter school system. The school was a joint venture between the Seatt...",2.6346213817596436,2.618826150894165,-0.015795230865478516,70,72
+89,"Instruction: Tell me which of the following are tropical fruits: Passion fruit, Lychee, Apple, Strawberry
+Response:","Passion fruit, Lychee, Apple, Strawberry are tropical fruits.
+Cherry, Grapefruit, and Grapefruit are tropical fruits.
+Coconut, Peanut, and Banana are tropical fruits.
+Grapefruit, Peanut, and Banana ar...","Passion fruit is the most popular fruit of the tropical fruits family, and Apple is one of the most popular fruits in the Mediterranean. Passion fruit is very sweet, is very juicy, and is a great base...",0.48167884349823,1.891035795211792,1.409356951713562,41,70
+90,"Instruction: What s epigenomics?
+Response:",The epigenomic record is a set of genetic information that describes the epigenomic pattern of an organism. A epigenome is a set of information that describes a particular state of the genome or a set...,"A group of researchers from the University of Edinburgh, UK, developed a method to identify epigenetic patterns in DNA that are inherited from a parent. The technique allows for the analysis of epigen...",2.496997356414795,2.474853515625,-0.022143840789794922,67,70
+91,"Instruction: Sea or Mountain
+Response:","Sea is the name of a continent located in the Arctic Ocean. It is one of the smallest and most northerly regions in the world. It is the only continent in the world to not have two main rivers.
+
+It is...",Sea is a term used to describe the state of the sea in the United States. It is a term that has been used to describe the state of the sea in the United States. It is used to describe the state of the...,2.361537456512451,-0.4834796190261841,-2.8450170755386353,72,74
+92,"Instruction: What is postmodernism?
+Context: Postmodernism is an intellectual stance or mode of discourse characterized ...",,,1.6576972007751465,1.6576972007751465,0.0,0,0
+93,"Instruction: Pancakes or waffles?
+Response:","Pancakes or waffles are made by mixing flour, salt, and butter. These ingredients are mixed in a blender and then whisked until smooth. The flour and salt are added to the flour mixture and whisk unti...","Pancakes are usually eaten on a hot day, but you can also make a waffle by adding a tablespoon of water and butter to a bowl.
+
+Waffles are traditionally made in the oven and then baked. The batter is ...",2.9047770500183105,2.4929332733154297,-0.41184377670288086,70,65
+94,"Instruction: Q: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?
+Response:","If you are a child, you can get a booster dose of a COVID-19 vaccine, but if you are not a child, you will not be eligible to receive a booster dose. A booster dose of a COVID-19 vaccine is required t...","The COVID-19 vaccine contains three different classes of vaccines:
+
+- Vaccine-preventable immunity vaccine (vaxxed) - this is the most common type of vaccine given to people with weakened immune syste...",1.265869140625,1.580741047859192,0.3148719072341919,66,55
+95,"Instruction: Do you really need mobile phone?
+Response:","Yes, there are many mobile phones available today, but if you are going to be a hunter, it's important to get a phone that is compatible with your needs. There are a lot of options that include a vari...","No, but some people may want to consider getting an iPhone.   For some people, that may not be a big deal.  If you have a phone that you can use on a daily basis, that's a great option.  On the flip s...",0.4716491103172302,2.170267105102539,1.6986179947853088,69,64
+96,Instruction: Extract the causes of income inequality in the United States mentioned in the text. Separate them with a co...,,,2.3960745334625244,2.3960745334625244,0.0,0,0
+97,"Instruction: What links Brazil, Uruguay, Mozambique and Angola
+Response:",Brazil is a country in South America with a long coastline and a diverse culture. Uruguay is a country in Central and South America. Mozambique is a country in Central and South America. Angola is a c...,"The most important part of the country is to get to know the people and how they work and live.  There are many places that you can visit for the first time, like museums, restaurants and cafes, which...",1.8788706064224243,2.248713970184326,0.36984336376190186,69,71
+98,"Instruction: Who wrote Democracy in America?
+Response:",The American Founding Fathers wrote Democracy in America. The Founding Fathers wrote Democracy in America. The Founding Fathers wrote Democracy in America. The Founding Fathers wrote Democracy in Amer...,"David Graeber wrote Democracy in America, a book about the rise of American democracy in the 1960s and 1970s. The book was released by the American Psychological Association in 2000.
+
+In an essay on D...",-0.920249342918396,2.6980233192443848,3.6182726621627808,71,62
+99,"Instruction: What athlete created the 'beast quake' for the Seattle Seahawks?
+Response:","The Seattle Seahawks football team was founded by the legendary quarterback Russell Wilson. Wilson, a former NFL star, is known for his dominance of the offensive line. He won three Super Bowls and a ...","Russell Wilson (Seattle Seahawks) was born in Seattle, Washington, USA. He is a former professional athlete and is the founder and president of the Seattle Seahawks Football Club. Wilson is the former...",1.0770268440246582,1.690219521522522,0.6131926774978638,65,72

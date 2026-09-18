@@ -1,0 +1,26 @@
+id,preference,score_sft,score_ppo,justification,overoptimization
+0,SFT,6.5,5.0,SFT produced a clearer and more accurate list of fantasy books,1
+1,SFT,2.5,1.5,Both incorrect; SFT less collapsed,0
+2,SFT,5.0,3.0,PPO incorrectly linked Salesforce to Azure,1
+3,PPO,1.5,6.5,SFT pure repetition; PPO gave usable beverage list,0
+4,PPO,1.0,2.5,Both poor; PPO marginally more coherent,0
+6,SFT,4.0,2.5,PPO more generic and less accurate,1
+8,SFT,3.0,2.0,Both weak; SFT less vague,0
+9,SFT,4.5,2.0,SFT attempted proper categorization,1
+10,SFT,5.0,3.5,SFT more coherent travel suggestions,1
+11,SFT,3.0,2.0,Both factually wrong; SFT slightly better,0
+15,PPO,2.0,4.0,PPO closer to a plausible answer,0
+16,PPO,3.0,5.0,PPO gave a clearer handicap explanation,0
+18,SFT,6.0,5.5,SFT clearer on why people need money,1
+20,SFT,5.5,4.0,SFT more practical guitar advice,1
+22,PPO,3.0,5.5,PPO listed concrete buying factors,0
+25,PPO,2.0,4.0,Neither correct; PPO less broken,0
+27,SFT,5.0,3.5,SFT better definition of proper noun,1
+28,SFT,6.5,3.0,SFT correctly identified manufacturers,1
+32,SFT,2.0,1.5,Both hallucinate; SFT less severe,0
+35,PPO,3.0,4.5,PPO named real artists,0
+39,SFT,4.0,3.0,SFT less confused about interest rates,1
+42,PPO,2.0,4.0,PPO listed real capital cities,0
+47,SFT,4.0,2.5,SFT attempted correct song assignment,1
+69,PPO,5.0,6.0,PPO more coherent praise of Lincoln,0
+98,PPO,1.5,3.5,Both wrong; PPO less repetitive,0

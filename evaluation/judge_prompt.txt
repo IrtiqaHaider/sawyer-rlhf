@@ -1,0 +1,19 @@
+You are an expert evaluator of instruction-following responses.
+
+Prompt:
+{prompt}
+
+Response A:
+{response_a}
+
+Response B:
+{response_b}
+
+First, score each response independently on a 1–10 scale for overall quality (helpfulness, coherence, relevance, fluency, and factual correctness).  
+Then state which response is better (A, B, or Tie) and give a one-sentence justification.
+
+Format your answer exactly as:
+Score A: X
+Score B: Y
+Preference: A / B / Tie
+Justification: ...

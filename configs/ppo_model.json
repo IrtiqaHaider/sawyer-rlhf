@@ -1,0 +1,18 @@
+{
+  "sft_checkpoint": "./sft_gpt2_dolly/final",
+  "rm_checkpoint": "./rm_gpt2_hh/final",
+  "num_prompts": 6000,
+  "max_prompt_len": 128,
+  "max_new_tokens": 64,
+  "batch_size": 4,
+  "mini_batch_size": 4,
+  "learning_rate": 1.4e-6,
+  "kl_coef": 0.02,
+  "ppo_epochs": 1,
+  "total_steps": 300,
+  "temperature": 1.0,
+  "top_k": 50,
+  "top_p": 0.95,
+  "seed": 42,
+  "output_dir": "./ppo_gpt2_final"
+}
